@@ -42,8 +42,8 @@
                 <div class="d-inline-flex align-items-center">
                     <div class="btn-group">
                         <button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown">My Account</button>
-                        <div class="dropdown-menu dropdown-menu-right">
-                            <button class="dropdown-item" type="button">Sign in</button>
+                        <div class="dropdown-menu dropdown-menu-right"><href="connexion.php">
+                            <button href="connexion.php" class="dropdown-item" type="button">Sign in</button> </href> 
                             <button class="dropdown-item" type="button">Sign up</button>
                         </div>
                     </div>
